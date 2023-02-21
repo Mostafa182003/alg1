@@ -43,5 +43,5 @@ def finder_boira_muera(string, pattern):
                 step += 1
     return count
 
-print(finder_boira_muera(line,pattern))l
+print(finder_boira_muera(line,pattern))
 
